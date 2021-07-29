@@ -1,10 +1,6 @@
 # Summary
 Data used in this project is six CSV files regarding employees of a corporation from the 1980s and 1990s. 
-First, an ERD of the tables were sketched. Second, I create a table schema for each of the six CSV files. Third, each CSV file is imported into the corresponding SQL table. Third, sql queries were made to do some data Analysis. 
-
-
-
-
+First, an ERD of the tables were sketched. Second, I create a table schema for each of the six CSV files. Third, each CSV file is imported into the corresponding SQL table. Third, SQL queries were made to do some data analysis. 
 
 # Data Analysis
 
