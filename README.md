@@ -2,6 +2,10 @@
 Data used in this project is six CSV files regarding employees of a corporation from the 1980s and 1990s. 
 First, an ERD of the tables were sketched. Second, I create a table schema for each of the six CSV files. Third, each CSV file is imported into the corresponding SQL table. Third, SQL queries were made to do some data analysis. 
 
+![Employee_ERD.png](EmployeeSQL/Employee_ERD.png)
+
+Employee_ERD.png
+
 # Data Analysis
 
 List the following details of each employee: employee number, last name, first name, sex, and salary.
